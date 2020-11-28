@@ -1,0 +1,33 @@
+.container {
+    display: inline-block;
+    width: 100%;
+    padding: calc(var(--section-padding) * 2) 0;
+}
+    .container > .row-short {
+        display: inline-block ;
+        width: 600px;
+        margin-left: calc((100% - 600px)/2);
+        background-color: aquamarine;
+        }
+        
+    .container > .row {
+        display: inline-block;
+        width: 1000px;
+        margin-left: calc((100% - 1000px)/2);
+        background-color: yellow;
+        }
+        .container > .row > .column {
+            display: inline-block;
+            float: left;
+            }
+            .container > .row > .column.left {
+                width: 50%;
+                background-color: aliceblue;
+
+            }
+            .container > .row > .column.right {
+                width: 40%;
+                margin-left: 10%;
+                background-color: aliceblue;
+            }
+
