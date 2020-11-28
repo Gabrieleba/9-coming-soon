@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Security Status](https://img.shields.io/badge/Security-A-green)<br>
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green)]
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-blue)<br>
 
 
