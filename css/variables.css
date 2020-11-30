@@ -1,1 +1,6 @@
 /* CSS variables */
+
+:root {
+    --section-padding: 20px;
+    --main-color: #03a9f5;
+}
